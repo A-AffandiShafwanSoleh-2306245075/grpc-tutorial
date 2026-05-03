@@ -1,0 +1,12 @@
+D:\Kuliah\Semester 6\Adpro\advprog-modul8\grpc-tutorial\target\debug\deps\serde-786f5f2f79c700b6.d: C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Kuliah\Semester\ 6\Adpro\advprog-modul8\grpc-tutorial\target\debug\build\serde-736b740282577774\out/private.rs
+
+D:\Kuliah\Semester 6\Adpro\advprog-modul8\grpc-tutorial\target\debug\deps\libserde-786f5f2f79c700b6.rmeta: C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Kuliah\Semester\ 6\Adpro\advprog-modul8\grpc-tutorial\target\debug\build\serde-736b740282577774\out/private.rs
+
+C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Affandi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\Kuliah\Semester\ 6\Adpro\advprog-modul8\grpc-tutorial\target\debug\build\serde-736b740282577774\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\Kuliah\\Semester 6\\Adpro\\advprog-modul8\\grpc-tutorial\\target\\debug\\build\\serde-736b740282577774\\out
