@@ -9,6 +9,8 @@ pub struct PaymentRequest {
 pub struct PaymentResponse {
     #[prost(bool, tag="1")]
     pub success: bool,
+    #[prost(string, tag="2")]
+    pub message: ::prost::alloc::string::String,
 }
 #[derive(Clone, PartialEq, ::prost::Message)]
 pub struct TransactionRequest {

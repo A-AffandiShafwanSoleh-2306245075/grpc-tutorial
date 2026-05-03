@@ -23,7 +23,8 @@ message PaymentRequest {
 
 message PaymentResponse {
     bool success = 1;
-}
+    string message = 2;
+  }
 
 message TransactionRequest {
     string user_id = 1;
